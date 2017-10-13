@@ -1,0 +1,17 @@
+{
+  "name": "sortbae",
+  "version": "1.0.3",
+  "description": "A collection of popular sorting algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sorting",
+    "in",
+    "one",
+    "package"
+  ],
+  "author": "Daniel Reyes <danielrey28@gmail.com>",
+  "license": "ISC"
+}
